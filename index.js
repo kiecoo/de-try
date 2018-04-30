@@ -1,3 +1,4 @@
+//Version v12-1-(way3)
 var minixhr = require('minixhr')
 
 module.exports = getGithubData
